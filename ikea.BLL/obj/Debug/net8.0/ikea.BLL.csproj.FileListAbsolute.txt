@@ -13,3 +13,4 @@ F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.BLL\obj\Debug\net8.0\ikea.BL
 F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.BLL\obj\Debug\net8.0\refint\ikea.BLL.dll
 F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.BLL\obj\Debug\net8.0\ikea.BLL.pdb
 F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.BLL\obj\Debug\net8.0\ref\ikea.BLL.dll
+F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.BLL\obj\Debug\net8.0\ikea.BLL.sourcelink.json

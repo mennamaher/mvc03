@@ -1,4 +1,5 @@
-﻿using ikea.DAL.modelss.Departments;
+﻿using ikea.DAL.Models.Departments;
+using ikea.DAL.modelss.Departments;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;

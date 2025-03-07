@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "F:\\Rout\\.Net\\05 MVC\\Session 03\\Assignment\\ikea\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E5019681-90FA-42D1-9E9B-10DB9CFB3A53}|ikea.BLL\\ikea.BLL.csproj|f:\\rout\\.net\\05 mvc\\session 03\\assignment\\ikea\\ikea.bll\\services\\departmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5019681-90FA-42D1-9E9B-10DB9CFB3A53}|ikea.BLL\\ikea.BLL.csproj|solutionrelative:ikea.bll\\services\\departmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5019681-90FA-42D1-9E9B-10DB9CFB3A53}|ikea.BLL\\ikea.BLL.csproj|f:\\rout\\.net\\05 mvc\\session 03\\assignment\\ikea\\ikea.bll\\services\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5019681-90FA-42D1-9E9B-10DB9CFB3A53}|ikea.BLL\\ikea.BLL.csproj|solutionrelative:ikea.bll\\services\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5019681-90FA-42D1-9E9B-10DB9CFB3A53}|ikea.BLL\\ikea.BLL.csproj|f:\\rout\\.net\\05 mvc\\session 03\\assignment\\ikea\\ikea.bll\\models\\updateddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5019681-90FA-42D1-9E9B-10DB9CFB3A53}|ikea.BLL\\ikea.BLL.csproj|solutionrelative:ikea.bll\\models\\updateddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5019681-90FA-42D1-9E9B-10DB9CFB3A53}|ikea.BLL\\ikea.BLL.csproj|f:\\rout\\.net\\05 mvc\\session 03\\assignment\\ikea\\ikea.bll\\createddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5019681-90FA-42D1-9E9B-10DB9CFB3A53}|ikea.BLL\\ikea.BLL.csproj|solutionrelative:ikea.bll\\createddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5019681-90FA-42D1-9E9B-10DB9CFB3A53}|ikea.BLL\\ikea.BLL.csproj|f:\\rout\\.net\\05 mvc\\session 03\\assignment\\ikea\\ikea.bll\\department\\departmenttoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5019681-90FA-42D1-9E9B-10DB9CFB3A53}|ikea.BLL\\ikea.BLL.csproj|solutionrelative:ikea.bll\\department\\departmenttoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CEF4487F-34AE-408B-BB71-8BE4785EF67F}|ikea.PL\\ikea.PL.csproj|f:\\rout\\.net\\05 mvc\\session 03\\assignment\\ikea\\ikea.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEF4487F-34AE-408B-BB71-8BE4785EF67F}|ikea.PL\\ikea.PL.csproj|solutionrelative:ikea.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEF4487F-34AE-408B-BB71-8BE4785EF67F}|ikea.PL\\ikea.PL.csproj|f:\\rout\\.net\\05 mvc\\session 03\\assignment\\ikea\\ikea.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CEF4487F-34AE-408B-BB71-8BE4785EF67F}|ikea.PL\\ikea.PL.csproj|solutionrelative:ikea.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D01D9067-650C-489F-8167-3835BE3EB428}|ikea.DAL\\ikea.DAL.csproj|f:\\rout\\.net\\05 mvc\\session 03\\assignment\\ikea\\ikea.dal\\presistance\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D01D9067-650C-489F-8167-3835BE3EB428}|ikea.DAL\\ikea.DAL.csproj|solutionrelative:ikea.dal\\presistance\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +34,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\Rout\\.Net\\05 MVC\\Session 03\\Assignment\\ikea\\ikea.PL\\appsettings.json",
-              "RelativeDocumentMoniker": "ikea.PL\\appsettings.json",
-              "ToolTip": "F:\\Rout\\.Net\\05 MVC\\Session 03\\Assignment\\ikea\\ikea.PL\\appsettings.json",
-              "RelativeToolTip": "ikea.PL\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-03T12:32:15.625Z",
+              "DocumentIndex": 0,
+              "Title": "DepartmentServices.cs",
+              "DocumentMoniker": "F:\\Rout\\.Net\\05 MVC\\Session 03\\Assignment\\ikea\\ikea.BLL\\services\\DepartmentServices.cs",
+              "RelativeDocumentMoniker": "ikea.BLL\\services\\DepartmentServices.cs",
+              "ToolTip": "F:\\Rout\\.Net\\05 MVC\\Session 03\\Assignment\\ikea\\ikea.BLL\\services\\DepartmentServices.cs",
+              "RelativeToolTip": "ikea.BLL\\services\\DepartmentServices.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:15:53.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "updatedDepartmentDTO.cs",
+              "DocumentMoniker": "F:\\Rout\\.Net\\05 MVC\\Session 03\\Assignment\\ikea\\ikea.BLL\\Models\\updatedDepartmentDTO.cs",
+              "RelativeDocumentMoniker": "ikea.BLL\\Models\\updatedDepartmentDTO.cs",
+              "ToolTip": "F:\\Rout\\.Net\\05 MVC\\Session 03\\Assignment\\ikea\\ikea.BLL\\Models\\updatedDepartmentDTO.cs",
+              "RelativeToolTip": "ikea.BLL\\Models\\updatedDepartmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:12:25.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "F:\\Rout\\.Net\\05 MVC\\Session 03\\Assignment\\ikea\\ikea.BLL\\services\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "ikea.BLL\\services\\IDepartmentService.cs",
+              "ToolTip": "F:\\Rout\\.Net\\05 MVC\\Session 03\\Assignment\\ikea\\ikea.BLL\\services\\IDepartmentService.cs",
+              "RelativeToolTip": "ikea.BLL\\services\\IDepartmentService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:09:08.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "createdDepartmentDTO.cs",
+              "DocumentMoniker": "F:\\Rout\\.Net\\05 MVC\\Session 03\\Assignment\\ikea\\ikea.BLL\\createdDepartmentDTO.cs",
+              "RelativeDocumentMoniker": "ikea.BLL\\createdDepartmentDTO.cs",
+              "ToolTip": "F:\\Rout\\.Net\\05 MVC\\Session 03\\Assignment\\ikea\\ikea.BLL\\createdDepartmentDTO.cs",
+              "RelativeToolTip": "ikea.BLL\\createdDepartmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:07:08.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentToReturnDTO.cs",
+              "DocumentMoniker": "F:\\Rout\\.Net\\05 MVC\\Session 03\\Assignment\\ikea\\ikea.BLL\\Department\\DepartmentToReturnDTO.cs",
+              "RelativeDocumentMoniker": "ikea.BLL\\Department\\DepartmentToReturnDTO.cs",
+              "ToolTip": "F:\\Rout\\.Net\\05 MVC\\Session 03\\Assignment\\ikea\\ikea.BLL\\Department\\DepartmentToReturnDTO.cs",
+              "RelativeToolTip": "ikea.BLL\\Department\\DepartmentToReturnDTO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T13:23:53.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Rout\\.Net\\05 MVC\\Session 03\\Assignment\\ikea\\ikea.PL\\Program.cs",
               "RelativeDocumentMoniker": "ikea.PL\\Program.cs",
@@ -48,19 +112,6 @@
               "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T00:41:25.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDBContext.cs",
-              "DocumentMoniker": "F:\\Rout\\.Net\\05 MVC\\Session 03\\Assignment\\ikea\\ikea.DAL\\presistance\\data\\AppDBContext.cs",
-              "RelativeDocumentMoniker": "ikea.DAL\\presistance\\data\\AppDBContext.cs",
-              "ToolTip": "F:\\Rout\\.Net\\05 MVC\\Session 03\\Assignment\\ikea\\ikea.DAL\\presistance\\data\\AppDBContext.cs",
-              "RelativeToolTip": "ikea.DAL\\presistance\\data\\AppDBContext.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T20:35:38.235Z",
               "EditorCaption": ""
             }
           ]

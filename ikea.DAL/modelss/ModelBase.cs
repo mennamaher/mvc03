@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ikea.DAL.modelss
 {
-    internal class ModelBase
+    public class ModelBase
     {
         public int id {  get; set; }
         public int createdBy { get; set; }

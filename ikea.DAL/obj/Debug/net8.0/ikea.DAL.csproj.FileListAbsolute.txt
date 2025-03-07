@@ -10,3 +10,4 @@ F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.DAL\obj\Debug\net8.0\refint\
 F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.DAL\obj\Debug\net8.0\ikea.DAL.pdb
 F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.DAL\obj\Debug\net8.0\ref\ikea.DAL.dll
 F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.DAL\obj\Debug\net8.0\ikea.DAL.csproj.AssemblyReference.cache
+F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.DAL\obj\Debug\net8.0\ikea.DAL.sourcelink.json

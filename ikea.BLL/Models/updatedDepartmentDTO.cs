@@ -4,20 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ikea.DAL.Models.Departments
+namespace ikea.BLL.Models
 {
-    public class Department : ModelBase
+    public class updatedDepartmentDTO
     {
-        internal object id;
-
+        public int ID { get; set; }
         public string Name { get; set; } = null!;
 
         public string? Description { get; set; } = null!;
 
         public string code { get; set; } = null!;
         public DateOnly CreationDate { get; set; }
-        public object CreatedOn { get; internal set; }
-        public object LastModification { get; internal set; }
     }
-
 }
